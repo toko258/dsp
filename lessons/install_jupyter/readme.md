@@ -1,4 +1,4 @@
-# Jupyter Notebook
+# Jupyter Notebook.  **COMPLETE**
 
 ## Introduction
 The Jupyter notebook is an interactive computational environment, in which you can combine code, execution, rich text, LaTeX, mathematics, plots and rich media.  

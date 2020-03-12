@@ -1,4 +1,4 @@
-# Install software on your computer
+# Install software on your computer.   **COMPLETE**
 
 
 ### Install [git](http://git-scm.com/).
